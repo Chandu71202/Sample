@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+#topbar{
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+.li{
+    display: inline;
+    font-size:x-large;
+    padding:106px;
+}
+.menu-item{
+    color:aliceblue;
+}
+.menu-item:{
+    color:black;
+}  
+.menu-item:hover{
+    color:red;
+}
+
+.menu-item:active{
+    color:cyan;
+} 
+/* .menu-item {
+    color:yellow;
+} */
